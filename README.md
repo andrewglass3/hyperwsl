@@ -7,7 +7,7 @@ Install ubuntu from the windows store
 
 Install hyper terminal https://hyper.is/
 
-Replace existing contents of .hyper file with my .hyperfile - to do so with hyper open type cntrl + ,
+Replace existing contents of .hyper file with my .hyperfile - to do so with hyper open type cntrl + , then copy and paste my contents into the prefs file - then save from the file menu.
 
 Then in wsl:
 
